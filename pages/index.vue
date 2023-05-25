@@ -11,7 +11,7 @@
         class="font-space-mono text-sm uppercase tracking-wide opacity-0"
         style="transform: translateY(30px)"
       >
-        Christopher Lis
+        Mateusz Paczkowski
       </h1>
       <p
         id="oneWithAn"
@@ -22,7 +22,7 @@
       </p>
       <a
         id="viewWorkBtn"
-        href="https://chriscourses.com/"
+        href="https://0xpako.com/"
         class="border px-4 py-2 rounded-lg text-sm font-space-mono uppercase mt-8 hover:bg-white hover:text-gray-800 inline-block opacity-0"
         style="transform: translateY(30px)"
       >
